@@ -1,10 +1,3 @@
-$(document).ready(function(){
-    //Write all your jQuery code here
-        $("button").click(function() {
-      $("#like").html("You like this project!");
-    });
-    
-    
-    
-    
+$("#submit").click(function(){
+ $("q1").hide();
 });
