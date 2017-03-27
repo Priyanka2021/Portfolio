@@ -4,3 +4,8 @@ img {
       border-radius: 20px;
       height: 300px;
     }
+
+body {
+      background-color: black;
+      color: white;
+}
